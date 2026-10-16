@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    color:rgb(93, 49, 108);
+    font-size:12px;
+    margin-bottom: 12px;}
+.leading {
+    color:rgb(255, 0, 115);
+    font-size:14px;
+    font-weight:bold;
+    line-height: 20px;
+    margin-top: 12px;
+    font-style: italic;
+}
+.skryt {
+    color:#88482e;
+    font-size: 12px;
+    line-height: 16px;
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.links {
+    list-style: none;
+    font-size: 14px;
+    margin-bottom: 16px;
+}
+body {
+    font-family: "Comic Sans MS", "Comic Sans";
+    font-size: 16px;
+    color: #000;
+    background-color:rgb(170, 155, 126);
+    padding:24px;
+    line-height: 24px;
+}
+.lista {
+    padding:12px;
+    list-style:circle;
+}
+.menucard {
+    border:8px solid rgb(93, 49, 108);
+    background: #fbfdfc;
+    padding:24px;
+    width:320px;
+    border-radius: 24px;
+}
+.logo{
+    width: 100%;
+    display: block;
+    height: auto;
+    margin-bottom: 12px;
+}
+.h1h1h1 {
+    text-align: center;
+}
+.tips {
+    background-color: rgb(212, 210, 210);
+    border-radius: 5px;
+    padding: 10px;
+}
